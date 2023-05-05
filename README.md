@@ -1,4 +1,4 @@
-## Oi eu sou a João Felipe, estudante de engenharia da computação amante de tecnologias e gosto de solucinar problemas!
+## Oi eu sou a João Felipe, desenvolvedor web amante de tecnologias e gosto de solucinar problemas!
 <div align="center">
   <a href="https://github.com/Joaofelipe14">
   
